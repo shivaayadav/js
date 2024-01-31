@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+
+}
+#hval{
+    background-color: aqua;
+}
+#lval{
+    background-color: blueviolet;
+}
+#bubu{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    justify-content: center;
+    
+    
+    text-shadow: 3vmin;
+    font-size: larger;
+border: 2px solid orchid;
+background-color: chartreuse;
+
+    width: 5cm;
+    height: 1cm;
+}

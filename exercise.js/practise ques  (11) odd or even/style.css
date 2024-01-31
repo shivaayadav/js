@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+#valu{
+    background-color: aqua;
+    font-size: larger;
+}
+
+#bubu{
+
+    background-color: chartreuse;
+    border: 2px solid gold;
+    border-radius: 5 vmin;
+    text-align: center;
+    font-size: large;
+}
+
+#out{
+    color: crimson;
+    font-size: 3cm;
+}

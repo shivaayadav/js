@@ -1,0 +1,40 @@
+
+body{
+    justify-content: center;
+    align-content: center;
+    display:grid;
+
+}
+
+
+#out{
+    border: 2px solid rgb(234, 98, 0);
+    border-radius: 5vmin;
+    text-align: center;
+    background-color: aqua;
+    width:10cm  ;
+
+   
+    
+}
+#data{
+    background-color: cadetblue;
+    /* align-content: center; */
+    width: 25vmin;
+    height: 5vmin;
+    font-size: large;
+
+
+}
+
+#bubu{
+
+    border: 2px solid rgba(19, 118, 204, 0.421);
+    background-color: rgb(238, 251, 116);
+    border-radius: 3vmin;
+    width: 25vmin;
+    height: 5vmin;
+    font-size: larger;
+    justify-content: center;
+    align-content: center;
+}
