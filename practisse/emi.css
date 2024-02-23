@@ -1,0 +1,35 @@
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid white;
+    border-radius: 5px;
+    /* s */
+}
+body{
+    background-color: black;
+    font-family: 'poppins';
+}
+.heading{
+    color: aliceblue;
+    
+}
+.button{
+    background-color: yellow;
+    width: 19rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    font-family:poppins, sans-serif;
+    font-weight: bold;
+border-radius: 15px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

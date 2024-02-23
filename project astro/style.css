@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    color: white;
+    /* text-align: center; */
+    margin-top: 4rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading{
+    box-shadow: 0px 7px 2rem white;
+    background-color: aqua;
+    width: 28rem;
+    border: 4px solid green;
+    border-radius: 3rem;
+    text-align: center;
+    color: rgb(243, 255, 246);
+    font-family:poppins,sans-serif;
+
+    text-shadow: 0px 0px 1rem rgb(0, 0, 0);
+   
+}
+.container{
+    background-color: rgb(83, 83, 103,0.4);
+    margin-top: 4rem;
+    height: 30rem;
+    width: 38rem;
+    text-align: center;
+    border: 4px solid lightblue;
+    border-radius: 3rem;
+   box-shadow: 0px 5px 2rem white;
+   font-family: poppins,sans-serif;
+}
+#question{
+    color: red;
+}
+
+hr{
+    width: 25rem;
+    border: 0.1px solid black;
+    box-shadow: 0px 0px 0.5rem white;
+  
+}
+.inp{
+    height: 3rem;
+    width: 25rem;
+    background: transparent;
+    border: none;
+    font-size: 35px;
+    color:lightblue;
+    text-align: center;
+}
+.inp:hover{
+    cursor: pointer;
+    font-weight: bold;text-shadow: 0px 0px 0.8rem black;
+    border: transparent;
+    
+
+}
+.zodiacImage{
+    height: 14px;
+    width: 14px;
+    border: 2px solid black;
+
+}
+.submit{
+    border: 5px solid rgb(255, 255, 255);
+    height: 3.5rem;
+    width: 20rem;
+    border-radius: 3rem;
+    background-color: rgb(105, 226, 105);
+   font-size: larger;
+   font-weight: bold;color:black;text-shadow: 0px 0px 0.8rem black;
+
+}
+.submit:hover{
+    transition: 0.5s;
+    cursor: pointer;
+  
+    box-shadow: 0px -8px 2rem greenyellow
+}
+.output{
+    color: crimson;
+    font-size: 35px;
+}
